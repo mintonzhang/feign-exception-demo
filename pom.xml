@@ -14,8 +14,9 @@
     <artifactId>feign-exception-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <modules>
-        <module>consumer</module>
-        <module>provider</module>
+        <module>node1</module>
+        <module>node2</module>
+        <module>node3</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
